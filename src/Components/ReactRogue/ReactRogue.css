@@ -1,0 +1,7 @@
+.game-wrapper {
+  display: flex;
+}
+
+.inventory {
+  list-style-type: none;
+}
